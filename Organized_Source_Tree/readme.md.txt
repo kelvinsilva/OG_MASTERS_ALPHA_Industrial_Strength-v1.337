@@ -1,0 +1,30 @@
+OGM_GAME_VER_1
+|
+|
+|
+|BOX_LIST_CLASS-----------
+|	  		 |BOX_LIST_CLASS.HPP
+|
+|GAME LOGIC----------------
+|	                  |ACTOR CLASS(fOLDER)
+|	                  |COLLISION_DETECTION.CPP
+|	                  |GAME.CPP
+|	                  |RUN_GAME_HEADERS_DEFINITION.H
+|
+|MAIN SOURCES-------------|CUSTOM_FUNCTIONS_CPP
+|		          |GAME_LEVELS.CPP
+|		          |GLOBAL_VARIABLE_DECLARATIONS.CPP
+|		          |MAIN.CPP
+|
+|
+|MAIN HEADERS-------------|
+|			  |CUSTOM_FUNCTIONS_HEADER.H
+|			  |fIRST_LEVEL_GAME_FUNCTIONS.H
+|		          |GAME_LEVELS.HPP
+|
+|STATUS SCREEN------------|STATUS_SCREEN_FUNCTIONS.CPP
+|			  |STATUS_SCREEN_HEADERS.H
+|
+|
+|TOP LEVEL MENU-----------|GAME_PLAY_MENU.CPP
+			  |OPTIONS_MENU.CPP

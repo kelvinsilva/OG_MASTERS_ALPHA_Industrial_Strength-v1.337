@@ -1,0 +1,8 @@
+Level File Name. (The Mappy File)
+*1001*map_file2.fmp 
+
+Level Name (Name)
+*1002*Level Two !!!!
+
+Name of Introduction Graphic
+*1003*OG_LEVELS_BITMAP\LEVEL_2\LEVEL_2_INTRO.bmp
